@@ -1,2 +1,2 @@
 # Dictionary
-Experementally developed dictionary for self-educational purposes
+Experimentally developed dictionary for self-educational purposes
